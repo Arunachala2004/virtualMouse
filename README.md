@@ -47,10 +47,6 @@ python virtual_mouse.py
 
 Contributions are welcome! If you'd like to add new features, improve existing ones, or fix any issues, feel free to open a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 - Thanks to the OpenCV community for their valuable contributions to computer vision technology.
