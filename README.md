@@ -1,10 +1,6 @@
-Sure, here's a README template you can use for your GitHub repository:
-
----
-
 # Virtual Mouse with OpenCV
 
-This project implements a virtual mouse using OpenCV, allowing users to control their computer cursor through hand gestures or a colored marker tracked via a camera feed. The virtual mouse offers basic cursor control functionalities and additional actions like clicking, dragging, and scrolling.
+This project implements a virtual mouse using OpenCV, allowing users to control their computer cursor through hand gestures via a camera feed. The virtual mouse offers basic cursor control functionalities and additional actions like clicking, dragging, and scrolling.
 
 ## Features
 
@@ -18,7 +14,7 @@ This project implements a virtual mouse using OpenCV, allowing users to control 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/arunachala2004/virtualMouse.git
+git clone https://github.com/arunachala2004/virtualMouse
 ```
 
 2. Install the required dependencies:
@@ -29,10 +25,10 @@ pip install -r requirements.txt
 
 ## Usage
 
-1. Run the `virtual_mouse.py` script:
+1. Run the `main.py` script:
 
 ```bash
-python virtual_mouse.py
+python3 main.py
 ```
 
 2. Follow the on-screen instructions to calibrate and start using the virtual mouse.
@@ -42,6 +38,8 @@ python virtual_mouse.py
 - Python 3.x
 - OpenCV
 - NumPy
+- Mediapipe
+- PyautoGUI
 
 ## Contributing
 
