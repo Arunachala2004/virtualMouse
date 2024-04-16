@@ -30,9 +30,6 @@ pip install -r requirements.txt
 ```bash
 python3 main.py
 ```
-
-2. Follow the on-screen instructions to calibrate and start using the virtual mouse.
-
 ## Requirements
 
 - Python 3.x
